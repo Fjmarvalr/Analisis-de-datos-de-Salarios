@@ -22,4 +22,4 @@ salary_in_usd: El salario convertido a dólares estadounidenses para estandariza
 employee_residence: La ubicación de residencia del empleado.
 remote_ratio: La proporción de trabajo remoto permitido para el puesto.
 company_location: La ubicación de la empresa.
-company_size: El tamaño de la empresa según el número de empleados o los ingresos.
+company_size: El tamaño de la empresa según el número de empleados o los ingresos..
