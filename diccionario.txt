@@ -23,3 +23,8 @@ employee_residence: La ubicación de residencia del empleado.
 remote_ratio: La proporción de trabajo remoto permitido para el puesto.
 company_location: La ubicación de la empresa.
 company_size: El tamaño de la empresa según el número de empleados o los ingresos..
+
+
+Cual es el perfil o rol de los empleados por año diferenciado por país?
+La media de salario en dolares por país, posicion y dedicación?
+
